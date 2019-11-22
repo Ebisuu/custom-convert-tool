@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import "../App.css";
-import Sidebar from "../components/sidebar/sidebar";
+import Sidebar from "../components/sidebar";
 
 export default function HomePage(props) {
   let clients = props.clients;
