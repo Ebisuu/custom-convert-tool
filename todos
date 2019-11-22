@@ -1,0 +1,3 @@
+#Generate code for firing conversions given an Project ID and test number
+#Remove console logs
+#replace promises with async await
