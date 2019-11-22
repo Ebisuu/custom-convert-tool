@@ -1,3 +1,4 @@
 #Generate code for firing conversions given an Project ID and test number
 #Remove console logs
 #replace promises with async await
+#Add some UI functionality for when error occurs, during cloning, retrival of data etc.
